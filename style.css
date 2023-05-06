@@ -1,0 +1,30 @@
+body {
+    background-color: #454f5e;    
+}
+
+.comentario {
+    background-color: #fff;            
+    width: 800px;
+    border-radius: 15px;
+    border: 1px #000 solid;            
+    margin: 10px auto;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    margin: 10px;
+    border-radius: 50%;
+    width: 100px;
+    border: 2px #999999 solid;
+}
+
+.texto {
+    margin: 10px;
+}
+
+.data-horario {
+    font-size: small;
+    color: #666666;
+}
